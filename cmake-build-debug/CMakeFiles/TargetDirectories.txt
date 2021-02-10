@@ -1,0 +1,3 @@
+D:/Desktop/Coding/Else/C-family/C++/Projects/hangman/cmake-build-debug/CMakeFiles/hangman.dir
+D:/Desktop/Coding/Else/C-family/C++/Projects/hangman/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Desktop/Coding/Else/C-family/C++/Projects/hangman/cmake-build-debug/CMakeFiles/rebuild_cache.dir

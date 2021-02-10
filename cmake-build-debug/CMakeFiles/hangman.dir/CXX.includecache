@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Desktop/Coding/Else/C-family/C++/Projects/hangman/src/Hangman.cpp
+iostream
+-
+unistd.h
+-
+Hangman.h
+D:/Desktop/Coding/Else/C-family/C++/Projects/hangman/src/Hangman.h
+
+D:/Desktop/Coding/Else/C-family/C++/Projects/hangman/src/Hangman.h
+string
+-
+
